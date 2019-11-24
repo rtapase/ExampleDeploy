@@ -27,3 +27,4 @@ D:\Development\ExampleApp\obj\Debug\netcoreapp2.2\ExampleApp.Views.pdb
 D:\Development\ExampleApp\obj\Debug\netcoreapp2.2\ExampleApp.dll
 D:\Development\ExampleApp\obj\Debug\netcoreapp2.2\ExampleApp.pdb
 D:\Development\ExampleApp\obj\Debug\netcoreapp2.2\ExampleApp.csproj.CopyComplete
+D:\Development\ExampleApp\obj\Debug\netcoreapp2.2\ExampleApp.csprojAssemblyReference.cache
